@@ -92,7 +92,7 @@ Com aprendizado da **NLW** acabei realizando melhorias no projeto e consertando 
 <h4 align="center">
   <img alt="ExampleWeb" title="ExampleWeb" src=".github/web-home.png" width="400px" />
   
-  <img alt="ExampleWeb" title="ExampleWeb" src=".github/web-modal.png" width="442px" />
+
 </h4>
 
 ## :hammer: Tecnologias
@@ -201,7 +201,7 @@ $ expo start
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
-Feito com ❤️ por Edgard Araujo 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alquiponeto/)
+Feito com ❤️ por Edgard Araujo 👋🏽 [Entre em contato!](https://www.linkedin.com/in/edgard-araujo-3a6950151/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
