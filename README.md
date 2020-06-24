@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://github.com/Gardium/NLW-Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gadium/NLW-Ecoleta?color=blue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gardium/NLW-Ecoleta?color=blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
